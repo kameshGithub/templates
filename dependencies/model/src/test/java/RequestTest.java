@@ -1,10 +1,9 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import java.util.HashMap;
 import java.util.Map;
 
-import com.openfaas.model.Request;
+import com.github.kameshchauhan.openfaas.java.model.Request;
 public class RequestTest {
 
 	@Test

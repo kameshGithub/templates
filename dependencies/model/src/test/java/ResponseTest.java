@@ -4,9 +4,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import com.openfaas.model.IHandler;
-
-import com.openfaas.model.Response;
+import com.github.kameshchauhan.openfaas.java.model.Response;
 
 public class ResponseTest {
     @Test public void testResponseHeaderSetGetValue() {
